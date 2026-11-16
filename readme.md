@@ -137,6 +137,7 @@ No widget UI. Tools exposed over MCP for when the agent needs to *do* something 
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - Read and write Obsidian vaults via the REST API plugin. ★ 3.8k `mit`
 - [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) - Simple Obsidian MCP server. ★ 712 `mit`
 - [cyanheads/obsidian-mcp-server](https://github.com/cyanheads/obsidian-mcp-server) - Surgical edits, tags, and frontmatter for Obsidian. ★ 562 `mit`
+- [SebastiaanBoon/cloud-alter-ego](https://github.com/SebastiaanBoon/cloud-alter-ego) - Personal memory for ChatGPT and Claude, stored in your own Drive, OneDrive or Git. `cloudalterego.cafeboon.com/mcp` `oauth2` `mit`
 
 ### Dev tools and infrastructure
 
